@@ -396,14 +396,14 @@ input.login-pswd:hover, input.login-pswd:focus
 
 div.topic
 {
-	background: url('../img/topic-footer.png') center bottom no-repeat;
+	background: url('../img/topic-footer.webp') center bottom no-repeat;
 	padding-bottom: 40px;
 	min-height: 170px;
 }
 
 div.topic div.time
 {
-	background: url('../img/topic-header-date.png') 0px 9px no-repeat;
+	background: url('../img/topic-header-date.webp') 0px 9px no-repeat;
 	color: #575350;
 	height: 48px;
 }
