@@ -318,7 +318,7 @@ div.forum a:hover
 
 input.button, button
 {
-	background: url('../img/buttons/default.png') no-repeat;
+	background: url('../img/default.webp') no-repeat;
 	width: 69px;
 	height: 25px;
 	border: 0px !important;
