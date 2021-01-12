@@ -1,7 +1,0 @@
-.hidden { display: none; }
-.left { text-align: left; }
-.right { text-align: right; }
-.center { text-align: center; }
-.top { vertical-align: top; }
-.trans50 { opacity: 0.5; filter: alpha(opacity=50); -moz-opacity: 0.5; }
-.trans80 { opacity: 0.8; filter: alpha(opacity=80); -moz-opacity: 0.8; }
