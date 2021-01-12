@@ -380,7 +380,7 @@ input.login-user:hover, input.login-user:focus
 
 input.login-pswd
 {
-	background: url('../img/buttons/login-pswd.png') no-repeat -3px 4px;
+	background: url('../img/login-pswd.webp') no-repeat -3px 4px;
 	width: 111px;
 	height: 34px;
 	color: #8b96b3;
